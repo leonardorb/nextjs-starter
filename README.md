@@ -1,2 +1,3 @@
-# nextjs-starter
-An opinionated Next.js starter
+# Next.js Starter
+
+An opinionated Next.js starter.
